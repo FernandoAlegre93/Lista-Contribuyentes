@@ -1,0 +1,18 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\bin\Debug\Ejercicio 3.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\obj\x86\Debug\Ejercicio_3.Form1.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\obj\x86\Debug\Ejercicio_3.Resources.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\obj\x86\Debug\Ejercicio 3.vbproj.GenerateResource.Cache
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\obj\x86\Debug\Ejercicio 3.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\obj\x86\Debug\Ejercicio 3.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\Ejercicio 3\obj\x86\Debug\Ejercicio 3.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\obj\x86\Debug\Ejercicio 3.exe
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\obj\x86\Debug\Ejercicio 3.xml
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\obj\x86\Debug\Ejercicio 3.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.xml
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\obj\x86\Debug\Ejercicio_3.Form1.resources
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\obj\x86\Debug\Ejercicio_3.Resources.resources
+E:\Ferchabbita\Escritorio\Ejercicios EDI\Final\Ejercicio 3\Ejercicio 3\obj\x86\Debug\Ejercicio 3.vbproj.GenerateResource.Cache
